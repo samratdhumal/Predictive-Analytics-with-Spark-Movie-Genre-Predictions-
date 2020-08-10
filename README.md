@@ -1,6 +1,6 @@
 # Predictive Analytics with Spark (Movie Genre Predictions)
 ## Technology Used: PySparks
-##    The objective of this assignment is to get started with predictive Analytics with Apache Spark. The goals of the assignment are to use Spark Libraries to implement an end to end Predictive Analytics Pipeline and introduce you to the data science competition platform Kaggle.
+##    The goal of this project is to use Spark Libraries to implement an end to end Predictive Analytics Pipeline with Apache Spark.
 
 
 		
@@ -8,7 +8,7 @@
 
 ### 1.	PART 1 - Basic Model
 #### Setup
-●	We have executed this assignment in the provided VM setup without any additional changes. We used Spark version 2.4.0 and Hadoop version 2.7 to create the model as provided in the VM.
+●	We have executed this project in the provided VM setup without any additional changes. We used Spark version 2.4.0 and Hadoop version 2.7 to create the model as provided in the VM.
 #### Preprocessing
 ●	We started our analysis by importing various pyspark libraries such as pyspark.sql, pyspark.ml, Pandas, and re.<br />
 ●	We loaded train, test, and mapping data from a csv file using pandas and loaded it into a pyspark dataframe.<br />
